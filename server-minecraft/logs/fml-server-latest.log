@@ -2107,3 +2107,4 @@
 [06:32:18] [Netty IO #1/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
 [06:32:18] [Netty IO #1/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [06:32:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[06:33:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
