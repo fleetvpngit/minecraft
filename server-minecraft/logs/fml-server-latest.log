@@ -2054,3 +2054,7 @@
 [17:26:53] [Server thread/DEBUG] [NotEnoughItems/]: Loading Player: Berlim1996
 [17:26:53] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Berlim1996
 [17:26:53] [Server thread/INFO] [Waila/]: Player EntityPlayerMP['Berlim1996'/712, l='world', x=188.42, y=69.00, z=393.70] connected. Sending ping
+[17:27:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:27:44] [Server thread/INFO] [ProjectE/]: Removing Berlim1996 from scheduled timers: Player disconnected.
+[17:27:44] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: Berlim1996
+[17:27:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
