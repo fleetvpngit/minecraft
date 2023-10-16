@@ -13,3 +13,6 @@
 [07:08:54] [Server thread/INFO]: Done (1.559s)! For help, type "help" or "?"
 [07:09:29] [Server thread/INFO]: Berlim1996[/149.78.186.224:63429] logged in with entity id 705 at (142.11165014123307, 70.0, 253.300000011921)
 [07:09:29] [Server thread/INFO]: Berlim1996 joined the game
+[07:11:12] [Server thread/INFO]: Berlim1996 was slain by entity.Small Worm.name
+[07:11:45] [Server thread/INFO]: Berlim1996 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[07:11:45] [Server thread/INFO]: Berlim1996 left the game
