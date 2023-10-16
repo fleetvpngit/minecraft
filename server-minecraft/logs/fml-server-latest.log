@@ -2082,3 +2082,6 @@
 [06:29:46] [Server thread/INFO] [Waila/]: Player EntityPlayerMP['Berlim1996'/2965, l='world', x=138.99, y=72.00, z=248.75] connected. Sending ping
 [06:29:46] [Netty IO #3/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
 [06:29:46] [Netty IO #3/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[06:30:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[06:30:41] [Server thread/INFO] [ProjectE/]: Removing Berlim1996 from scheduled timers: Player disconnected.
+[06:30:41] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: Berlim1996
