@@ -2828,3 +2828,4 @@ io.netty.handler.timeout.ReadTimeoutException
 [15:57:54] [Server thread/INFO] [Waila/]: Player EntityPlayerMP['Berlim1996'/3583, l='world', x=163.85, y=70.00, z=345.24] connected. Sending ping
 [15:57:54] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
 [15:57:54] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[15:58:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
