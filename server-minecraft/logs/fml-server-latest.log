@@ -2112,3 +2112,12 @@
 [06:34:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [06:35:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [06:36:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[06:37:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[06:37:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[06:37:56] [Server thread/DEBUG] [ProjectE/]: Clearing offline data cache in preparation to load online data
+[06:37:56] [Server thread/DEBUG] [ProjectE/]: Reapplied bag and knowledge on player respawning
+[06:37:56] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
+[06:37:56] [Server thread/DEBUG] [ProjectE/]: ** SENT FULL BAG DATA **
+[06:37:56] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Berlim1996
+[06:37:58] [Server thread/INFO] [ProjectE/]: Removing Berlim1996 from scheduled timers: Player disconnected.
+[06:37:58] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: Berlim1996
