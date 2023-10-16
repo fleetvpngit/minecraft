@@ -21,3 +21,5 @@
 [18:38:16] [Server thread/INFO]: Berlim1996 left the game
 [20:27:32] [Server thread/INFO]: Berlim1996[/149.78.186.224:62576] logged in with entity id 1723 at (48.744037506277124, 70.0, 379.7866105812165)
 [20:27:32] [Server thread/INFO]: Berlim1996 joined the game
+[20:28:50] [Server thread/INFO]: Berlim1996 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:28:50] [Server thread/INFO]: Berlim1996 left the game
