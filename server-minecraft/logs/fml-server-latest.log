@@ -2082,3 +2082,5 @@ io.netty.handler.timeout.ReadTimeoutException
 [07:13:54] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Berlim1996
 [07:13:54] [Server thread/INFO] [Waila/]: Player EntityPlayerMP['Berlim1996'/1249, l='world', x=182.20, y=69.00, z=397.65] connected. Sending ping
 [07:13:55] [Netty IO #0/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[07:14:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[07:14:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
