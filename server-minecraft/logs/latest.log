@@ -1,14 +1,13 @@
-[07:05:01] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[07:05:08] [Server thread/INFO]: Loading properties
-[07:05:08] [Server thread/INFO]: Default game type: SURVIVAL
-[07:05:08] [Server thread/INFO]: Generating keypair
-[07:05:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:05:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07:05:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[07:05:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07:05:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[07:05:10] [Server thread/INFO]: Preparing level "world"
-[07:05:10] [Server thread/INFO]: Preparing start region for level 0
-[07:05:11] [Server thread/INFO]: Done (1.137s)! For help, type "help" or "?"
-[07:05:17] [Server thread/INFO]: Berlim1996[/191.10.102.203:39112] logged in with entity id 636 at (146.99936361289423, 73.0, 255.8428976898989)
-[07:05:17] [Server thread/INFO]: Berlim1996 joined the game
+[07:08:44] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[07:08:51] [Server thread/INFO]: Loading properties
+[07:08:51] [Server thread/INFO]: Default game type: SURVIVAL
+[07:08:51] [Server thread/INFO]: Generating keypair
+[07:08:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:08:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:08:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:08:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:08:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:08:53] [Server thread/INFO]: Preparing level "world"
+[07:08:53] [Server thread/INFO]: Preparing start region for level 0
+[07:08:54] [Server thread/INFO]: Preparing spawn area: 67%
+[07:08:54] [Server thread/INFO]: Done (1.559s)! For help, type "help" or "?"
