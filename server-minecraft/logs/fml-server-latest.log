@@ -2343,3 +2343,4 @@
 io.netty.handler.timeout.ReadTimeoutException
 [20:28:50] [Server thread/INFO] [ProjectE/]: Removing Berlim1996 from scheduled timers: Player disconnected.
 [20:28:50] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: Berlim1996
+[20:29:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
