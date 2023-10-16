@@ -2090,3 +2090,4 @@
 [23:55:46] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
 [23:55:46] [Server thread/DEBUG] [ProjectE/]: ** SENT FULL BAG DATA **
 [23:55:46] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: _TicoMiia_
+[23:56:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
