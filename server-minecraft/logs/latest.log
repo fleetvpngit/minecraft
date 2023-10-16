@@ -1,1 +1,15 @@
 [06:17:57] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[06:18:05] [Server thread/INFO]: Loading properties
+[06:18:05] [Server thread/INFO]: Default game type: SURVIVAL
+[06:18:05] [Server thread/INFO]: Generating keypair
+[06:18:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:18:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:18:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:18:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:18:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:18:06] [Server thread/INFO]: Preparing level "world"
+[06:18:06] [Server thread/INFO]: Preparing start region for level 0
+[06:18:07] [Server thread/INFO]: Done (1.176s)! For help, type "help" or "?"
+[06:18:15] [Server thread/INFO]: Berlim1996[/191.10.102.203:37336] logged in with entity id 149 at (-194.5, 68.0, 265.5)
+[06:18:15] [Server thread/INFO]: Berlim1996 joined the game
+[06:18:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2361ms behind, skipping 47 tick(s)
