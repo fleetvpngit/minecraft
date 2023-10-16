@@ -2086,3 +2086,12 @@ io.netty.handler.timeout.ReadTimeoutException
 [07:14:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [07:15:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [07:16:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[07:17:01] [Server thread/DEBUG] [ProjectE/]: Clearing offline data cache in preparation to load online data
+[07:17:01] [Server thread/DEBUG] [ProjectE/]: Reapplied bag and knowledge on player respawning
+[07:17:01] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
+[07:17:01] [Server thread/DEBUG] [ProjectE/]: ** SENT FULL BAG DATA **
+[07:17:01] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Berlim1996
+[07:17:05] [Server thread/INFO] [ProjectE/]: Removing Berlim1996 from scheduled timers: Player disconnected.
+[07:17:05] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: Berlim1996
+[07:17:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[07:17:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
