@@ -2657,3 +2657,31 @@ io.netty.handler.timeout.ReadTimeoutException
 [23:39:36] [Netty IO #0/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
 [23:39:36] [Netty IO #0/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [23:39:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:40:37] [Netty IO #0/ERROR] [FML/]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException
+[23:40:37] [Server thread/INFO] [ProjectE/]: Removing Berlim1996 from scheduled timers: Player disconnected.
+[23:40:37] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: Berlim1996
+[23:40:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:40:52] [Netty IO #0/ERROR] [FML/]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException
+[23:40:52] [Server thread/INFO] [ProjectE/]: Removing _TicoMiia_ from scheduled timers: Player disconnected.
+[23:40:52] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: _TicoMiia_
+[23:40:56] [Server thread/DEBUG] [ProjectE/]: Clearing offline data cache in preparation to load online data
+[23:40:57] [Netty IO #2/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:40:57] [Netty IO #2/INFO] [FML/]: Client protocol version 2
+[23:40:57] [Netty IO #2/TRACE] [FML/]: $ModList:29 mods->FMLHandshakeServerState$2:HELLO
+[23:40:57] [Netty IO #2/INFO] [FML/]: Client attempting to join with 29 mods : NotEnoughItems@1.0.5.120,Waila@1.5.10,Forge@10.13.4.1614,fbtoggle@1.0.0,IronChest@6.0.62.742,iChunUtil@4.2.3,StorageDrawers@1.7.10-1.10.9,CodeChickenCore@1.0.7.48,MouseTweaks@2.4.4,wawla@1.3.1,IC2@2.2.827-experimental,waystones@1.0.12,mcp@9.05,journeymap@5.1.4p6,InventoryPets@1.5.2,FML@7.10.99.99,ironbackpacks@1.7.10-1.2.20,betterbuilderswands@0.8.1,MoreFurnaces@1.3.9,foamfix@@VERSION@,tlauncher_custom_cape_skin@1.0,WailaHarvestability@1.1.6,FoamFixCore@1.0.4,MoCreatures@6.3.1,cosmeticarmorreworked@1.7.10-v7,fastleafdecay@1.4,OreSpawn@1.7.10.20.3,BackTools@4.0.0,ProjectE@1.7.10-PE1.10.1
+[23:40:57] [Netty IO #2/INFO] [journeymap/]: CLIENT
+[23:40:57] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[23:40:57] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:40:57] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:40:57] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[23:40:57] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
+[23:40:57] [Server thread/DEBUG] [ProjectE/]: ** SENT FULL BAG DATA **
+[23:40:57] [Server thread/INFO] [ProjectE/]: Sent EMC data packets to: Berlim1996
+[23:40:57] [Server thread/DEBUG] [ProjectE/]: Total packets: 3
+[23:40:57] [Server thread/DEBUG] [NotEnoughItems/]: Loading Player: Berlim1996
+[23:40:57] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Berlim1996
+[23:40:57] [Server thread/INFO] [Waila/]: Player EntityPlayerMP['Berlim1996'/3386, l='world', x=83.74, y=65.00, z=405.73] connected. Sending ping
+[23:40:57] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:40:57] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
