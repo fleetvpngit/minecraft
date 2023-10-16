@@ -1,56 +1,8 @@
-[17:25:30] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[17:25:38] [Server thread/INFO]: Loading properties
-[17:25:38] [Server thread/INFO]: Default game type: SURVIVAL
-[17:25:38] [Server thread/INFO]: Generating keypair
-[17:25:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:25:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:25:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:25:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:25:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:25:40] [Server thread/INFO]: Preparing level "world"
-[17:25:40] [Server thread/INFO]: Preparing start region for level 0
-[17:25:41] [Server thread/INFO]: Preparing spawn area: 66%
-[17:25:41] [Server thread/INFO]: Done (1.655s)! For help, type "help" or "?"
-[17:26:53] [Server thread/INFO]: Berlim1996[/191.10.102.203:51192] logged in with entity id 712 at (188.42269788553307, 69.0, 393.7019815272745)
-[17:26:53] [Server thread/INFO]: Berlim1996 joined the game
-[17:27:44] [Server thread/INFO]: Berlim1996 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[17:27:44] [Server thread/INFO]: Berlim1996 left the game
-[18:38:14] [Server thread/INFO]: Berlim1996[/149.78.186.224:65475] logged in with entity id 1412 at (48.744037506277124, 70.0, 379.7866105812165)
-[18:38:14] [Server thread/INFO]: Berlim1996 joined the game
-[18:38:16] [Server thread/INFO]: Berlim1996 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[18:38:16] [Server thread/INFO]: Berlim1996 left the game
-[20:27:32] [Server thread/INFO]: Berlim1996[/149.78.186.224:62576] logged in with entity id 1723 at (48.744037506277124, 70.0, 379.7866105812165)
-[20:27:32] [Server thread/INFO]: Berlim1996 joined the game
-[20:28:50] [Server thread/INFO]: Berlim1996 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[20:28:50] [Server thread/INFO]: Berlim1996 left the game
-[23:38:43] [Server thread/INFO]: _TicoMiia_[/177.67.183.160:52061] logged in with entity id 2300 at (147.5, 71.0, 249.5)
-[23:38:43] [Server thread/INFO]: _TicoMiia_ joined the game
-[23:38:49] [Server thread/INFO]: Berlim1996[/149.78.186.224:62278] logged in with entity id 2531 at (75.70913955238687, 66.0, 405.34916776744535)
-[23:38:49] [Server thread/INFO]: Berlim1996 joined the game
-[23:38:51] [Server thread/INFO]: _TicoMiia_ has just earned the achievement [Taking Inventory]
-[23:39:32] [Server thread/INFO]: Berlim1996 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[23:39:32] [Server thread/INFO]: Berlim1996 left the game
-[23:39:36] [Server thread/INFO]: Berlim1996[/149.78.186.224:64756] logged in with entity id 2964 at (76.77312820645336, 66.0, 411.20127568987255)
-[23:39:36] [Server thread/INFO]: Berlim1996 joined the game
-[23:40:37] [Server thread/INFO]: Berlim1996 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[23:40:37] [Server thread/INFO]: Berlim1996 left the game
-[23:40:52] [Server thread/INFO]: _TicoMiia_ lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[23:40:52] [Server thread/INFO]: _TicoMiia_ left the game
-[23:40:57] [Server thread/INFO]: Berlim1996[/149.78.186.224:64420] logged in with entity id 3386 at (83.7359155327358, 65.0, 405.7281207351039)
-[23:40:57] [Server thread/INFO]: Berlim1996 joined the game
-[23:41:03] [Server thread/INFO]: Berlim1996 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[23:41:03] [Server thread/INFO]: Berlim1996 left the game
-[23:41:23] [Server thread/INFO]: Berlim1996[/149.78.186.224:63019] logged in with entity id 3784 at (84.96654049696198, 65.0, 405.30000001192093)
-[23:41:23] [Server thread/INFO]: Berlim1996 joined the game
-[23:41:46] [Server thread/INFO]: Berlim1996 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[23:41:46] [Server thread/INFO]: Berlim1996 left the game
-[23:41:50] [Server thread/INFO]: Berlim1996[/149.78.186.224:64447] logged in with entity id 4181 at (84.96654049696198, 65.0, 405.30000001192093)
-[23:41:50] [Server thread/INFO]: Berlim1996 joined the game
-[23:42:44] [Server thread/INFO]: Berlim1996 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[23:42:44] [Server thread/INFO]: Berlim1996 left the game
-[23:42:46] [Server thread/INFO]: _TicoMiia_[/177.67.183.105:52358] logged in with entity id 4702 at (158.24197165842514, 81.0, 278.48667634381843)
-[23:42:46] [Server thread/INFO]: _TicoMiia_ joined the game
-[23:42:51] [Server thread/INFO]: <_TicoMiia_> a
-[23:43:03] [Server thread/INFO]: _TicoMiia_ has just earned the achievement [Getting Wood]
-[23:43:52] [Server thread/INFO]: _TicoMiia_ has just earned the achievement [Benchmarking]
-[23:44:26] [Server thread/INFO]: _TicoMiia_ has just earned the achievement [Time to Mine!]
+[23:45:45] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[23:45:57] [Server thread/INFO]: Loading properties
+[23:45:57] [Server thread/INFO]: Default game type: SURVIVAL
+[23:45:57] [Server thread/INFO]: Generating keypair
+[23:45:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:45:57] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[23:45:57] [Server thread/WARN]: The exception was: java.net.BindException: Address already in use
+[23:45:57] [Server thread/WARN]: Perhaps a server is already running on that port?
