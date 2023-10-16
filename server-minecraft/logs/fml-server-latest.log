@@ -2054,3 +2054,5 @@
 [06:24:04] [Server thread/INFO] [Waila/]: Player EntityPlayerMP['Berlim1996'/1555, l='world', x=140.50, y=71.00, z=252.50] connected. Sending ping
 [06:24:04] [Netty IO #1/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [06:24:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[06:25:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[06:25:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
