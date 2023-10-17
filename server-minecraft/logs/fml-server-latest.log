@@ -2059,3 +2059,8 @@
 [01:17:42] [Server thread/INFO] [Waila/]: Player EntityPlayerMP['Berlim1996'/1192, l='world', x=675.23, y=65.00, z=1505.30] connected. Sending ping
 [01:17:43] [Server thread/DEBUG] [FML/]: Method ic2.core.network.DataEncoder.encode(Ljava/io/DataOutputStream;Ljava/lang/Object;Z)V: Replacing GETFIELD fluidID with INVOKEVIRTUAL getFluidID
 [01:17:43] [Server thread/DEBUG] [FML/]: Method ic2.core.network.DataEncoder.copyValue(Ljava/lang/Object;Ljava/lang/Object;)Z: Replacing GETFIELD fluidID with INVOKEVIRTUAL getFluidID
+[01:18:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:18:35] [Server thread/INFO] [ProjectE/]: Removing Berlim1996 from scheduled timers: Player disconnected.
+[01:18:35] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: Berlim1996
+[01:19:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:19:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
