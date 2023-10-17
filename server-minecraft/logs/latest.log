@@ -51,3 +51,7 @@
 [00:33:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3831ms behind, skipping 76 tick(s)
 [00:34:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2865ms behind, skipping 57 tick(s)
 [00:34:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2038ms behind, skipping 40 tick(s)
+[00:38:08] [Server thread/INFO]: Berlim1996 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:38:08] [Server thread/INFO]: Berlim1996 left the game
+[00:38:46] [Server thread/INFO]: JoaopedrooXD17 has just earned the achievement [All that Matters.]
+[00:38:58] [Server thread/INFO]: JoaopedrooXD17 has just earned the achievement [Even better Matter!]
