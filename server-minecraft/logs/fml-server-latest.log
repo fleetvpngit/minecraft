@@ -3872,3 +3872,8 @@ io.netty.handler.timeout.ReadTimeoutException
 [23:07:49] [Server thread/INFO] [Waila/]: Player EntityPlayerMP['Berlim1996'/4453, l='world', x=644.56, y=64.00, z=1439.09] connected. Sending ping
 [23:07:49] [Netty IO #3/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [23:08:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:09:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:09:29] [Server thread/INFO] [ProjectE/]: Removing Berlim1996 from scheduled timers: Player disconnected.
+[23:09:29] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: Berlim1996
+[23:10:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:10:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
