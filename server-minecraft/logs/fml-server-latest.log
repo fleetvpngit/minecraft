@@ -2022,3 +2022,14 @@
 [01:15:16] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarted took 0.013s
 [01:15:16] [Server thread/DEBUG] [ProjectE/]: Added condenser at coords 758, 40, 1560
 [01:15:21] [Snooper Timer/INFO] [foamfix/]: [Log4JExploitFix] Applying Log4j exploit mitigation to net/minecraft/util/HttpUtil/getLogger!
+[01:16:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:16:33] [Netty IO #1/INFO] [foamfix/]: [Log4JExploitFix] Applying Log4j exploit mitigation to net/minecraft/network/PingResponseHandler/getLogger!
+[01:16:33] [Netty IO #1/INFO] [foamfix/]: [Log4JExploitFix] Applying Log4j exploit mitigation to net/minecraft/util/MessageDeserializer/getLogger!
+[01:16:33] [Netty IO #1/INFO] [foamfix/]: [Log4JExploitFix] Applying Log4j exploit mitigation to net/minecraft/network/NetworkStatistics/getLogger!
+[01:16:33] [Netty IO #1/INFO] [foamfix/]: [Log4JExploitFix] Applying Log4j exploit mitigation to net/minecraft/util/MessageSerializer/getLogger!
+[01:16:33] [Netty IO #1/INFO] [foamfix/]: [Log4JExploitFix] Applying Log4j exploit mitigation to net/minecraft/network/EnumConnectionState/getLogger!
+[01:16:33] [Netty IO #1/INFO] [foamfix/]: [Log4JExploitFix] Applying Log4j exploit mitigation to net/minecraft/network/EnumConnectionState/getLogger!
+[01:16:33] [Netty IO #1/INFO] [foamfix/]: [Log4JExploitFix] Applying Log4j exploit mitigation to net/minecraft/network/EnumConnectionState/getLogger!
+[01:16:33] [Netty IO #1/INFO] [foamfix/]: [Log4JExploitFix] Applying Log4j exploit mitigation to net/minecraft/network/EnumConnectionState/getLogger!
+[01:16:33] [Netty IO #1/INFO] [foamfix/]: [Log4JExploitFix] Applying Log4j exploit mitigation to net/minecraft/network/play/server/S22PacketMultiBlockChange/getLogger!
+[01:16:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
