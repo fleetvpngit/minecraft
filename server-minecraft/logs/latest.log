@@ -1,1 +1,18 @@
 [00:13:59] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[00:14:14] [Server thread/INFO]: Loading properties
+[00:14:14] [Server thread/INFO]: Default game type: SURVIVAL
+[00:14:14] [Server thread/INFO]: Generating keypair
+[00:14:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:14:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:14:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:14:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:14:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:14:17] [Server thread/INFO]: Preparing level "world"
+[00:14:18] [Server thread/INFO]: Preparing start region for level 0
+[00:14:19] [Server thread/INFO]: Preparing spawn area: 6%
+[00:14:20] [Server thread/INFO]: Preparing spawn area: 49%
+[00:14:20] [Server thread/INFO]: Done (3.341s)! For help, type "help" or "?"
+[00:14:37] [Server thread/INFO]: Berlim1996[/149.78.186.224:64278] logged in with entity id 1315 at (744.3000000119209, 72.0, 1584.237500011921)
+[00:14:37] [Server thread/INFO]: Berlim1996 joined the game
+[00:14:57] [Server thread/INFO]: JoaopedrooXD17[/168.205.101.38:40800] logged in with entity id 1372 at (750.5, 72.0, 1603.5)
+[00:14:57] [Server thread/INFO]: JoaopedrooXD17 joined the game
