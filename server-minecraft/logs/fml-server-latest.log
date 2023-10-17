@@ -3800,3 +3800,8 @@
 [22:31:30] [Netty IO #1/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
 [22:31:30] [Netty IO #1/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [22:31:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:32:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:32:41] [Netty IO #1/ERROR] [FML/]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException
+[22:32:41] [Server thread/INFO] [ProjectE/]: Removing Berlim1996 from scheduled timers: Player disconnected.
+[22:32:41] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: Berlim1996
