@@ -2517,3 +2517,5 @@ java.io.IOException: Connection reset by peer
 [01:08:42] [Server thread/INFO] [Waila/]: Player EntityPlayerMP['_TicoMiia_'/203026, l='world', x=728.00, y=73.00, z=1615.00] connected. Sending ping
 [01:08:42] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [01:09:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:10:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:10:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
