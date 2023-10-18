@@ -4011,3 +4011,8 @@ io.netty.handler.timeout.ReadTimeoutException
 [00:19:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [00:19:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [00:20:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:21:01] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
+[00:21:14] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
+[00:21:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:22:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:22:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
