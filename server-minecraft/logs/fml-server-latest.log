@@ -4069,3 +4069,25 @@ io.netty.handler.timeout.ReadTimeoutException
 [00:45:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [00:46:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [00:46:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:47:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:47:57] [Netty IO #1/ERROR] [FML/]: NetworkDispatcher exception
+java.io.IOException: Connection reset by peer
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method) ~[?:1.8.0_382]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39) ~[?:1.8.0_382]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[?:1.8.0_382]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[?:1.8.0_382]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379) ~[?:1.8.0_382]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:436) ~[UnpooledUnsafeDirectByteBuf.class:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:870) ~[AbstractByteBuf.class:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:?]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:87) [AbstractNioByteChannel$NioByteUnsafe.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:480) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:447) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:341) [NioEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_382]
+[00:47:57] [Server thread/INFO] [ProjectE/]: Removing _TicoMiia_ from scheduled timers: Player disconnected.
+[00:47:57] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: _TicoMiia_
+[00:48:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:49:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:49:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
