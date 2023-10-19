@@ -6314,3 +6314,7 @@ java.io.IOException: Connection reset by peer
 [01:44:42] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: _TicoMiia_
 [01:44:49] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
 [01:44:56] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
+[01:45:04] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
+[01:45:04] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
+[01:45:07] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
+[01:45:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
