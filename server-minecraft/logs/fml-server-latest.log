@@ -6442,3 +6442,6 @@ java.io.IOException: Connection reset by peer
 [02:38:02] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [02:38:47] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [02:39:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:40:10] [Server thread/INFO] [ProjectE/]: Removing JoaopedrooXD17 from scheduled timers: Player disconnected.
+[02:40:10] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: JoaopedrooXD17
+[02:40:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
