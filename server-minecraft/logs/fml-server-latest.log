@@ -6019,3 +6019,4 @@ java.io.IOException: Connection reset by peer
 [00:25:51] [Server thread/DEBUG] [NotEnoughItems/]: Loading Player: _TicoMiia_
 [00:25:51] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: _TicoMiia_
 [00:25:51] [Server thread/INFO] [Waila/]: Player EntityPlayerMP['_TicoMiia_'/84674, l='world', x=-421.73, y=63.00, z=-569.75] connected. Sending ping
+[00:26:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
