@@ -6216,3 +6216,14 @@ java.io.IOException: Connection reset by peer
 [01:30:45] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
 [01:30:48] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
 [01:30:58] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
+[01:31:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:31:10] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
+[01:31:10] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
+[01:31:36] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
+[01:31:37] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
+[01:31:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:31:51] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
+[01:31:53] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
+[01:31:55] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
+[01:31:58] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
+[01:32:00] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
