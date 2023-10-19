@@ -6402,3 +6402,16 @@ java.io.IOException: Connection reset by peer
 [02:16:59] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [02:17:45] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [02:18:30] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:19:04] [Server thread/DEBUG] [ProjectE/]: Clearing offline data cache in preparation to load online data
+[02:19:04] [Server thread/DEBUG] [ProjectE/]: Reapplied bag and knowledge on player respawning
+[02:19:04] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
+[02:19:04] [Server thread/DEBUG] [ProjectE/]: ** SENT FULL BAG DATA **
+[02:19:04] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: _TicoMiia_
+[02:19:15] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:20:00] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:20:36] [Server thread/DEBUG] [ProjectE/]: Clearing offline data cache in preparation to load online data
+[02:20:36] [Server thread/DEBUG] [ProjectE/]: Reapplied bag and knowledge on player respawning
+[02:20:36] [Server thread/DEBUG] [ProjectE/]: ** SENT TRANSMUTATION DATA **
+[02:20:36] [Server thread/DEBUG] [ProjectE/]: ** SENT FULL BAG DATA **
+[02:20:36] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: JoaopedrooXD17
+[02:20:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
