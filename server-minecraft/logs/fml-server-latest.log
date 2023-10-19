@@ -6383,3 +6383,4 @@ java.io.IOException: Connection reset by peer
 [02:10:11] [Server thread/DEBUG] [ProjectE/]: ** SENT FULL BAG DATA **
 [02:10:11] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: JoaopedrooXD17
 [02:10:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:11:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
