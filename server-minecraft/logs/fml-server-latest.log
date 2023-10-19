@@ -6087,3 +6087,6 @@ java.io.IOException: Connection reset by peer
 [00:44:55] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: JoaopedrooXD17
 [00:44:55] [Server thread/INFO] [Waila/]: Player EntityPlayerMP['JoaopedrooXD17'/801926, l='world', x=755.52, y=40.00, z=1577.44] connected. Sending ping
 [00:44:55] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:45:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:46:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:46:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
