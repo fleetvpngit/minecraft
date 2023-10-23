@@ -54,3 +54,8 @@
 [23Oct2023 20:48:36.942] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10628 ms
 [23Oct2023 20:48:36.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (22.430s)! For help, type "help"
 [23Oct2023 20:48:36.974] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[23Oct2023 20:49:05.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
+[23Oct2023 20:49:23.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Oct2023 20:49:23.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Oct2023 20:49:23.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Oct2023 20:49:25.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
