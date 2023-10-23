@@ -1,0 +1,15 @@
+[23Oct2023 20:43:29.812] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.1, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[23Oct2023 20:43:29.818] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8.1 by Private Build; OS Linux arch amd64 version 5.15.0-1049-azure
+[23Oct2023 20:43:29.960] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /root/minecraft/server-2/config/fml.toml is not correct. Correcting
+[23Oct2023 20:43:29.963] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[23Oct2023 20:43:29.964] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[23Oct2023 20:43:29.989] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[23Oct2023 20:43:30.072] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/root/minecraft/server-2/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[23Oct2023 20:43:30.433] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /root/minecraft/server-2/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.1/fmlcore-1.20.1-47.2.1.jar is missing mods.toml file
+[23Oct2023 20:43:30.436] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /root/minecraft/server-2/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.1/javafmllanguage-1.20.1-47.2.1.jar is missing mods.toml file
+[23Oct2023 20:43:30.438] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /root/minecraft/server-2/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.1/lowcodelanguage-1.20.1-47.2.1.jar is missing mods.toml file
+[23Oct2023 20:43:30.441] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /root/minecraft/server-2/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.1/mclanguage-1.20.1-47.2.1.jar is missing mods.toml file
+[23Oct2023 20:43:30.548] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[23Oct2023 20:43:32.780] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[23Oct2023 20:43:33.714] [main/WARN] [net.minecraft.server.Eula/]: Failed to load eula.txt
+[23Oct2023 20:43:33.724] [main/INFO] [net.minecraft.server.Main/]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
