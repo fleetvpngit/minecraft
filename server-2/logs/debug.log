@@ -734,3 +734,4 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Oct2023 22:43:48.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Berlim1996 joined the game
 [23Oct2023 22:44:12.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Berlim1996 a server operator
 [23Oct2023 22:44:59.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Berlim1996: Set own game mode to Creative Mode]
+[23Oct2023 22:45:28.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] OLA
