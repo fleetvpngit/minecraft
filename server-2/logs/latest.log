@@ -54,3 +54,6 @@
 [23Oct2023 20:50:48.740] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11007 ms
 [23Oct2023 20:50:48.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (22.626s)! For help, type "help"
 [23Oct2023 20:50:48.787] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[23Oct2023 22:26:39.940] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Berlim1996[/18.231.88.116:64083] logged in with entity id 2 at (-32.5, 69.0, -25.5)
+[23Oct2023 22:26:40.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Berlim1996 joined the game
+[23Oct2023 22:26:45.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
