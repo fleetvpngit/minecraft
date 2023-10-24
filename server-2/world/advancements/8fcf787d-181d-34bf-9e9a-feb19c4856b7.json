@@ -1,22 +1,4 @@
 {
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2023-10-23 22:45:04 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2023-10-23 22:46:53 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2023-10-23 22:45:04 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2023-10-23 22:43:49 -0300"
@@ -29,21 +11,39 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2023-10-23 22:45:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2023-10-23 22:45:04 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2023-10-23 22:45:04 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2023-10-23 22:45:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2023-10-23 22:46:53 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_carpet": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "has_white_wool": "2023-10-23 22:45:04 -0300"
+      "has_brown_mushroom": "2023-10-23 22:46:53 -0300"
     },
     "done": true
   },

@@ -7,3 +7,15 @@
 [24Oct2023 01:58:29.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoaopedrooXD17 joined the game
 [24Oct2023 01:58:32.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoaopedrooXD17 lost connection: Disconnected
 [24Oct2023 01:58:32.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoaopedrooXD17 left the game
+[24Oct2023 07:04:13.416] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Berlim1996[/191.96.37.189:41468] logged in with entity id 164 at (111.69999998807907, 70.0, 34.3791848388828)
+[24Oct2023 07:04:13.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Berlim1996 joined the game
+[24Oct2023 07:04:16.707] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Berlim1996 lost connection: Disconnected
+[24Oct2023 07:04:16.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Berlim1996 left the game
+[24Oct2023 07:04:18.412] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _TicoMiia_[/191.96.37.189:49506] logged in with entity id 172 at (103.5, 72.0, 50.5)
+[24Oct2023 07:04:18.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TicoMiia_ joined the game
+[24Oct2023 07:04:21.720] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _TicoMiia_ lost connection: Disconnected
+[24Oct2023 07:04:21.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TicoMiia_ left the game
+[24Oct2023 07:04:23.071] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoaopedrooXD17[/191.96.37.189:49526] logged in with entity id 180 at (121.5, 73.0, 39.5)
+[24Oct2023 07:04:23.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoaopedrooXD17 joined the game
+[24Oct2023 07:04:26.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoaopedrooXD17 lost connection: Disconnected
+[24Oct2023 07:04:26.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoaopedrooXD17 left the game
