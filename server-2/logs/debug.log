@@ -576,3 +576,35 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Oct2023 01:50:37.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Oct2023 01:55:37.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Oct2023 01:55:37.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Oct2023 01:58:22.427] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[24Oct2023 01:58:22.427] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[24Oct2023 01:58:22.428] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[24Oct2023 01:58:22.428] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[24Oct2023 01:58:22.428] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[24Oct2023 01:58:22.428] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[24Oct2023 01:58:22.428] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[24Oct2023 01:58:22.428] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[24Oct2023 01:58:22.430] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[24Oct2023 01:58:22.451] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[24Oct2023 01:58:22.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _TicoMiia_[/191.96.37.189:58142] logged in with entity id 1 at (103.5, 72.0, 50.5)
+[24Oct2023 01:58:22.625] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@4b80fd1e into net.minecraft.network.Connection@7ef77c42
+[24Oct2023 01:58:22.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TicoMiia_ joined the game
+[24Oct2023 01:58:23.129] [Server thread/DEBUG] [io.netty.util.internal.ThreadLocalRandom/]: -Dio.netty.initialSeedUniquifier: 0xcac43886f0bf83e2
+[24Oct2023 01:58:26.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[24Oct2023 01:58:26.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _TicoMiia_ lost connection: Disconnected
+[24Oct2023 01:58:26.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TicoMiia_ left the game
+[24Oct2023 01:58:29.599] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[24Oct2023 01:58:29.599] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[24Oct2023 01:58:29.599] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[24Oct2023 01:58:29.599] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[24Oct2023 01:58:29.599] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[24Oct2023 01:58:29.599] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[24Oct2023 01:58:29.599] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[24Oct2023 01:58:29.599] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[24Oct2023 01:58:29.599] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[24Oct2023 01:58:29.628] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[24Oct2023 01:58:29.678] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoaopedrooXD17[/191.96.37.189:60866] logged in with entity id 119 at (121.5, 73.0, 39.5)
+[24Oct2023 01:58:29.679] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@2626cae1 into net.minecraft.network.Connection@ca1a09
+[24Oct2023 01:58:29.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoaopedrooXD17 joined the game
+[24Oct2023 01:58:32.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoaopedrooXD17 lost connection: Disconnected
+[24Oct2023 01:58:32.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoaopedrooXD17 left the game
