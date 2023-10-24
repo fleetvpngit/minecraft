@@ -735,3 +735,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Oct2023 22:44:12.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Berlim1996 a server operator
 [23Oct2023 22:44:59.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Berlim1996: Set own game mode to Creative Mode]
 [23Oct2023 22:45:28.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] OLA
+[23Oct2023 22:47:16.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Oct2023 22:47:16.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Oct2023 22:47:16.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Oct2023 22:47:18.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
