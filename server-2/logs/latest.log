@@ -19,3 +19,7 @@
 [24Oct2023 07:04:23.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoaopedrooXD17 joined the game
 [24Oct2023 07:04:26.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoaopedrooXD17 lost connection: Disconnected
 [24Oct2023 07:04:26.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoaopedrooXD17 left the game
+[24Oct2023 20:42:17.560] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Berlim1996[/18.231.88.116:61710] logged in with entity id 196 at (111.69999998807907, 70.0, 34.3791848388828)
+[24Oct2023 20:42:17.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Berlim1996 joined the game
+[24Oct2023 20:42:22.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Berlim1996 lost connection: Disconnected
+[24Oct2023 20:42:22.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Berlim1996 left the game
