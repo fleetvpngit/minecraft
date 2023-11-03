@@ -11,3 +11,5 @@
 [01:08:00] [Server thread/WARN]: handleDisconnection() called twice
 [01:08:00] [Server thread/INFO]: Berlim1996[/54.207.22.133:63306] logged in with entity id 3614 at (-2.492698062188142, 84.0, 35.985025997849505)
 [01:08:00] [Server thread/INFO]: Berlim1996 joined the game
+[01:10:09] [Server thread/INFO]: Berlim1996 lost connection: Disconnected
+[01:10:09] [Server thread/INFO]: Berlim1996 left the game
