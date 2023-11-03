@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-11-03 08:13:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2023-11-03 04:19:29 +0000"
@@ -701,6 +707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2023-11-03 08:13:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2023-11-03 03:10:42 +0000"
@@ -746,6 +758,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-11-03 04:37:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-11-03 08:13:39 +0000"
     },
     "done": true
   },
@@ -947,6 +965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2023-11-03 08:13:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2023-11-03 05:10:37 +0000"
@@ -968,6 +992,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2023-11-03 03:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-11-03 08:13:39 +0000"
     },
     "done": true
   },
@@ -1214,6 +1244,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2023-11-03 06:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-11-03 08:13:39 +0000"
     },
     "done": true
   },
@@ -1633,9 +1669,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2023-11-03 08:13:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-11-03 04:58:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2023-11-03 08:13:39 +0000"
     },
     "done": true
   },
@@ -1672,6 +1720,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2023-11-03 03:35:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-11-03 08:13:39 +0000"
     },
     "done": true
   },
@@ -1725,6 +1779,7 @@
       "rotten_flesh": "2023-11-03 04:39:18 +0000",
       "cooked_mutton": "2023-11-03 03:50:21 +0000",
       "potato": "2023-11-03 06:00:18 +0000",
+      "glow_berries": "2023-11-03 08:14:44 +0000",
       "cooked_beef": "2023-11-03 03:30:46 +0000",
       "baked_potato": "2023-11-03 05:32:51 +0000",
       "carrot": "2023-11-03 04:03:58 +0000"
@@ -1968,6 +2023,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2023-11-03 06:55:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-11-03 08:13:39 +0000"
     },
     "done": true
   },
