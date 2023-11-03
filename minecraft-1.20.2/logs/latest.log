@@ -208,3 +208,8 @@
 [02:18:36] [Server thread/INFO]: Made carol a server operator
 [02:18:41] [Server thread/INFO]: [Not Secure] <Berlim1996> ve ai
 [02:18:53] [Server thread/INFO]: Made Berlim1996 a server operator
+[02:19:39] [Server thread/INFO]: [Berlim1996: Set own game mode to Creative Mode]
+[02:19:46] [Server thread/INFO]: [Berlim1996: Set own game mode to Survival Mode]
+[02:19:50] [Server thread/INFO]: carol was killed
+[02:19:50] [Server thread/INFO]: [carol: Killed carol]
+[02:19:52] [Server thread/WARN]: carol moved too quickly! -79.93083761428598,-89.2960145154185,-26.62010734421827
