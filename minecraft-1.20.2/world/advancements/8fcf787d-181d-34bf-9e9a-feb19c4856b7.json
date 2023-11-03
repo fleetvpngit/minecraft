@@ -570,6 +570,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2023-11-03 01:36:09 +0000",
+      "minecraft:spider": "2023-11-03 02:07:14 +0000",
       "minecraft:zombie": "2023-11-03 01:29:51 +0000"
     },
     "done": false
@@ -584,7 +585,8 @@
     "criteria": {
       "cooked_porkchop": "2023-11-03 01:33:39 +0000",
       "apple": "2023-11-03 01:31:58 +0000",
-      "cooked_beef": "2023-11-03 01:55:33 +0000"
+      "cooked_beef": "2023-11-03 01:55:33 +0000",
+      "beef": "2023-11-03 02:07:18 +0000"
     },
     "done": false
   },

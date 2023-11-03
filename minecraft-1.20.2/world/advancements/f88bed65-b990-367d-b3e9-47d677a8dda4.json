@@ -901,6 +901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2023-11-03 02:08:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2023-11-03 01:46:11 +0000"
@@ -916,6 +922,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2023-11-03 01:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2023-11-03 02:08:25 +0000"
     },
     "done": true
   },
