@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2023-11-03 04:06:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2023-11-03 03:46:51 +0000"
@@ -335,9 +341,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2023-11-03 04:06:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2023-11-03 04:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2023-11-03 04:05:53 +0000"
     },
     "done": true
   },
@@ -413,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2023-11-03 04:06:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2023-11-03 03:17:09 +0000"
@@ -434,6 +458,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2023-11-03 03:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2023-11-03 04:06:34 +0000"
     },
     "done": true
   },
@@ -481,6 +511,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2023-11-03 04:05:25 +0000",
       "minecraft:spider": "2023-11-03 03:46:13 +0000",
       "minecraft:zombie": "2023-11-03 03:22:16 +0000"
     },
@@ -668,7 +699,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2023-11-03 03:54:07 +0000"
+      "cooked_porkchop": "2023-11-03 03:54:07 +0000",
+      "cooked_chicken": "2023-11-03 04:05:55 +0000"
     },
     "done": false
   },
