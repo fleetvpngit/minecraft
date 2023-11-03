@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2023-11-03 03:43:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2023-11-03 03:23:07 +0000"
@@ -439,6 +445,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2023-11-03 03:42:16 +0000",
       "minecraft:zombie": "2023-11-03 03:31:23 +0000"
     },
     "done": false
@@ -545,6 +552,8 @@
       "minecraft:old_growth_birch_forest": "2023-11-03 03:17:48 +0000",
       "minecraft:forest": "2023-11-03 03:17:51 +0000",
       "minecraft:taiga": "2023-11-03 03:10:03 +0000",
+      "minecraft:cherry_grove": "2023-11-03 03:43:45 +0000",
+      "minecraft:sunflower_plains": "2023-11-03 03:43:13 +0000",
       "minecraft:river": "2023-11-03 03:11:29 +0000",
       "minecraft:plains": "2023-11-03 03:33:26 +0000"
     },
