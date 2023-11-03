@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2023-11-03 04:13:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2023-11-03 03:17:09 +0000"
@@ -164,6 +170,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2023-11-03 03:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2023-11-03 04:13:48 +0000"
     },
     "done": true
   },
@@ -350,6 +362,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2023-11-03 04:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2023-11-03 04:11:38 +0000"
     },
     "done": true
   },
@@ -541,6 +559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2023-11-03 04:13:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2023-11-03 03:13:20 +0000"
@@ -700,7 +724,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2023-11-03 03:54:07 +0000",
-      "cooked_chicken": "2023-11-03 04:05:55 +0000"
+      "cooked_chicken": "2023-11-03 04:05:55 +0000",
+      "rabbit": "2023-11-03 04:10:20 +0000",
+      "carrot": "2023-11-03 04:11:23 +0000"
     },
     "done": false
   },
