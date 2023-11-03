@@ -468,6 +468,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2023-11-03 03:55:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2023-11-03 03:31:02 +0000"
@@ -556,6 +562,7 @@
     "criteria": {
       "minecraft:flower_forest": "2023-11-03 03:38:14 +0000",
       "minecraft:old_growth_birch_forest": "2023-11-03 03:17:48 +0000",
+      "minecraft:snowy_slopes": "2023-11-03 03:55:50 +0000",
       "minecraft:forest": "2023-11-03 03:17:51 +0000",
       "minecraft:taiga": "2023-11-03 03:10:03 +0000",
       "minecraft:cherry_grove": "2023-11-03 03:43:45 +0000",
@@ -702,6 +709,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2023-11-03 03:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2023-11-03 03:55:09 +0000"
     },
     "done": true
   },
