@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2023-11-03 06:01:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2023-11-03 04:19:29 +0000"
@@ -1491,10 +1497,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2023-11-03 06:01:07 +0000",
       "chicken": "2023-11-03 03:52:19 +0000",
       "bread": "2023-11-03 04:42:20 +0000",
       "rotten_flesh": "2023-11-03 04:39:18 +0000",
       "cooked_mutton": "2023-11-03 03:50:21 +0000",
+      "potato": "2023-11-03 06:00:18 +0000",
       "cooked_beef": "2023-11-03 03:30:46 +0000",
       "baked_potato": "2023-11-03 05:32:51 +0000",
       "carrot": "2023-11-03 04:03:58 +0000"
@@ -1618,6 +1626,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2023-11-03 05:51:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2023-11-03 06:01:36 +0000"
     },
     "done": true
   },
@@ -1780,6 +1794,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2023-11-03 04:19:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2023-11-03 06:01:36 +0000"
     },
     "done": true
   },
