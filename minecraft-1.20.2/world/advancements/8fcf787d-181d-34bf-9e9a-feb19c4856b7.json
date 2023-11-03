@@ -683,6 +683,7 @@
       "cooked_chicken": "2023-11-03 04:05:55 +0000",
       "cooked_mutton": "2023-11-03 05:15:15 +0000",
       "rabbit": "2023-11-03 04:10:20 +0000",
+      "baked_potato": "2023-11-03 05:42:06 +0000",
       "carrot": "2023-11-03 04:11:23 +0000"
     },
     "done": false
@@ -1311,6 +1312,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2023-11-03 05:42:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2023-11-03 05:15:00 +0000"
@@ -1338,6 +1345,12 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2023-11-03 04:59:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2023-11-03 05:40:02 +0000"
     },
     "done": true
   },
