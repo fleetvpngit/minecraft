@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-11-03 04:02:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2023-11-03 03:13:20 +0000"
@@ -80,6 +86,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2023-11-03 03:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2023-11-03 04:01:40 +0000"
     },
     "done": true
   },
@@ -131,6 +143,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2023-11-03 04:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_the_recipe": "2023-11-03 04:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2023-11-03 03:17:09 +0000"
@@ -167,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2023-11-03 04:01:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2023-11-03 03:18:38 +0000"
@@ -191,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2023-11-03 04:01:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2023-11-03 03:17:09 +0000"
@@ -200,6 +236,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2023-11-03 03:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2023-11-03 04:02:25 +0000"
     },
     "done": true
   },
@@ -224,6 +266,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2023-11-03 03:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-11-03 04:02:25 +0000"
     },
     "done": true
   },
@@ -278,6 +326,24 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-11-03 03:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2023-11-03 04:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2023-11-03 04:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-11-03 04:02:25 +0000"
     },
     "done": true
   },
@@ -353,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2023-11-03 04:02:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2023-11-03 03:47:36 +0000"
@@ -368,6 +440,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2023-11-03 03:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-11-03 04:02:25 +0000"
     },
     "done": true
   },
@@ -468,9 +546,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2023-11-03 04:01:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2023-11-03 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2023-11-03 04:01:40 +0000"
     },
     "done": true
   },
@@ -483,16 +573,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2023-11-03 03:39:31 +0000",
-      "minecraft:old_growth_birch_forest": "2023-11-03 03:23:25 +0000",
       "minecraft:snowy_slopes": "2023-11-03 03:56:02 +0000",
       "minecraft:beach": "2023-11-03 03:19:35 +0000",
       "minecraft:old_growth_pine_taiga": "2023-11-03 03:12:27 +0000",
       "minecraft:forest": "2023-11-03 03:23:19 +0000",
       "minecraft:taiga": "2023-11-03 03:09:58 +0000",
-      "minecraft:cherry_grove": "2023-11-03 03:43:53 +0000",
-      "minecraft:sunflower_plains": "2023-11-03 03:43:15 +0000",
       "minecraft:river": "2023-11-03 03:43:11 +0000",
       "minecraft:stony_shore": "2023-11-03 03:20:27 +0000",
+      "minecraft:dripstone_caves": "2023-11-03 04:00:34 +0000",
+      "minecraft:old_growth_birch_forest": "2023-11-03 03:23:25 +0000",
+      "minecraft:cherry_grove": "2023-11-03 03:43:53 +0000",
+      "minecraft:sunflower_plains": "2023-11-03 03:43:15 +0000",
       "minecraft:old_growth_spruce_taiga": "2023-11-03 03:22:22 +0000"
     },
     "done": false
@@ -515,9 +606,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2023-11-03 04:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2023-11-03 04:02:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2023-11-03 03:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-11-03 04:02:25 +0000"
     },
     "done": true
   },
@@ -530,6 +639,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2023-11-03 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2023-11-03 04:01:40 +0000"
     },
     "done": true
   },
@@ -566,6 +681,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2023-11-03 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2023-11-03 04:01:40 +0000"
     },
     "done": true
   },
@@ -641,6 +762,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2023-11-03 04:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-11-03 04:02:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2023-11-03 03:18:08 +0000"
@@ -650,6 +783,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2023-11-03 03:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2023-11-03 04:01:40 +0000"
     },
     "done": true
   },

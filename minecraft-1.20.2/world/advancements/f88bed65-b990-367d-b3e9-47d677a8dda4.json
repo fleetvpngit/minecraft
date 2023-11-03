@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2023-11-03 04:02:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2023-11-03 03:43:53 +0000"
@@ -77,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2023-11-03 04:00:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2023-11-03 03:23:07 +0000"
@@ -113,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-11-03 04:00:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2023-11-03 03:36:14 +0000"
@@ -146,6 +164,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2023-11-03 03:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2023-11-03 04:00:25 +0000"
     },
     "done": true
   },
@@ -239,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-11-03 04:00:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2023-11-03 03:23:07 +0000"
@@ -260,6 +290,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2023-11-03 03:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2023-11-03 04:00:25 +0000"
     },
     "done": true
   },
@@ -302,6 +338,12 @@
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2023-11-03 03:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2023-11-03 04:00:25 +0000"
     },
     "done": true
   },
@@ -452,7 +494,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2023-11-03 03:42:16 +0000",
-      "minecraft:zombie": "2023-11-03 03:31:23 +0000"
+      "minecraft:zombie": "2023-11-03 03:31:23 +0000",
+      "minecraft:zombie_villager": "2023-11-03 04:04:05 +0000"
     },
     "done": false
   },
@@ -462,9 +505,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-11-03 04:00:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2023-11-03 03:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2023-11-03 04:00:25 +0000"
     },
     "done": true
   },
@@ -654,7 +709,8 @@
     "criteria": {
       "chicken": "2023-11-03 03:52:19 +0000",
       "cooked_mutton": "2023-11-03 03:50:21 +0000",
-      "cooked_beef": "2023-11-03 03:30:46 +0000"
+      "cooked_beef": "2023-11-03 03:30:46 +0000",
+      "carrot": "2023-11-03 04:03:58 +0000"
     },
     "done": false
   },
@@ -691,6 +747,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2023-11-03 03:35:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2023-11-03 04:00:25 +0000"
     },
     "done": true
   },
@@ -775,6 +837,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2023-11-03 03:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2023-11-03 04:02:27 +0000"
     },
     "done": true
   },
