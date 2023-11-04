@@ -43,3 +43,8 @@
 [07:23:53] [Server thread/INFO]: [Berlim1996: Teleported Berlim1996 to carol]
 [07:23:53] [Server thread/INFO]: carol was shot by Skeleton
 [07:23:59] [Server thread/INFO]: [carol: Teleported carol to Berlim1996]
+[07:24:44] [Server thread/INFO]: [carol: Teleported carol to Berlim1996]
+[07:24:44] [Server thread/WARN]: carol moved too quickly! 10.562931747200139,21.0,-2.2387727649033877
+[07:24:52] [Server thread/INFO]: carol was shot by Skeleton
+[07:24:57] [Server thread/INFO]: [carol: Teleported carol to Berlim1996]
+[07:24:57] [Server thread/WARN]: carol moved too quickly! -14.800000011920929,-136.0,17.80000001192093
