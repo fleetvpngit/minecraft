@@ -2120,15 +2120,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_egg": "2023-11-04 07:20:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2023-11-04 08:25:33 +0000"
+      "has_water_bucket": "2023-11-04 07:13:31 +0000"
     },
     "done": true
   },
@@ -2138,21 +2132,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_golden_sword": "2023-11-04 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2023-11-04 08:28:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_sword": "2023-11-04 08:04:14 +0000"
+      "has_egg": "2023-11-04 07:20:57 +0000"
     },
     "done": true
   },
@@ -2162,15 +2144,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
-      "has_water_bucket": "2023-11-04 07:13:31 +0000"
+      "has_golden_sword": "2023-11-04 08:04:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
-      "has_cornflower": "2023-11-04 08:32:44 +0000"
+      "has_golden_sword": "2023-11-04 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2023-11-04 08:25:33 +0000"
     },
     "done": true
   },
@@ -2186,6 +2174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2023-11-04 08:28:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2023-11-04 08:28:09 +0000"
@@ -2195,6 +2189,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2023-11-04 08:32:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2023-11-04 08:32:44 +0000"
     },
     "done": true
   },
