@@ -527,6 +527,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2023-11-03 03:42:16 +0000",
+      "minecraft:stray": "2023-11-04 08:26:57 +0000",
       "minecraft:spider": "2023-11-03 04:35:45 +0000",
       "minecraft:zombie": "2023-11-03 03:31:23 +0000",
       "minecraft:zombie_villager": "2023-11-03 04:04:05 +0000"
@@ -2345,15 +2346,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2023-11-04 08:28:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2023-11-04 07:22:49 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2023-11-04 08:28:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2023-11-04 07:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2023-11-04 08:28:01 +0000"
     },
     "done": true
   },
