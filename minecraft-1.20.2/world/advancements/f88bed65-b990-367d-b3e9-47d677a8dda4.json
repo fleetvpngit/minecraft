@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2023-11-08 00:03:39 +0000",
       "minecraft:flower_forest": "2023-11-03 03:38:14 +0000",
       "minecraft:snowy_slopes": "2023-11-03 03:55:50 +0000",
       "minecraft:beach": "2023-11-07 23:48:11 +0000",
@@ -14,8 +15,10 @@
       "minecraft:dark_forest": "2023-11-04 08:22:26 +0000",
       "minecraft:forest": "2023-11-03 03:17:51 +0000",
       "minecraft:taiga": "2023-11-03 03:10:03 +0000",
+      "minecraft:deep_ocean": "2023-11-08 00:04:27 +0000",
       "minecraft:river": "2023-11-03 03:11:29 +0000",
       "minecraft:dripstone_caves": "2023-11-03 04:09:56 +0000",
+      "minecraft:deep_cold_ocean": "2023-11-08 00:03:53 +0000",
       "minecraft:old_growth_birch_forest": "2023-11-03 03:17:48 +0000",
       "minecraft:deep_dark": "2023-11-03 05:55:18 +0000",
       "minecraft:ocean": "2023-11-07 23:48:45 +0000",
@@ -2427,9 +2430,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2023-11-08 00:04:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2023-11-08 00:04:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2023-11-07 23:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2023-11-08 00:04:29 +0000"
     },
     "done": true
   },
