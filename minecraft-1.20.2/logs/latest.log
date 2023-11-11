@@ -1,10 +1,3 @@
-[00:05:05] [Server thread/INFO]: carol drowned
-[00:06:02] [Server thread/INFO]: [carol: Set own game mode to Creative Mode]
-[00:10:35] [Server thread/INFO]: carol has made the advancement [The Parrots and the Bats]
-[00:11:00] [Server thread/INFO]: [carol: Set own game mode to Survival Mode]
-[00:13:21] [Server thread/INFO]: [carol: Gave 1 [Cherry Wood] to carol]
-[00:14:08] [Server thread/INFO]: [carol: Gave 6000 [Cherry Wood] to carol]
-[00:27:22] [Server thread/INFO]: [carol: Gave 12 [Obsidian] to carol]
-[00:30:49] [Server thread/INFO]: [carol: Gave 1 [Obsidian] to carol]
-[00:40:30] [Server thread/INFO]: carol lost connection: Disconnected
-[00:40:30] [Server thread/INFO]: carol left the game
+[01:39:09] [Server thread/INFO]: /84.54.51.93:55162 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(13) + length(8) exceeds writerIndex(13): PooledUnsafeDirectByteBuf(ridx: 13, widx: 13, cap: 13)
+[01:39:10] [Server thread/INFO]: /84.54.51.93:57952 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(13) + length(8) exceeds writerIndex(13): PooledUnsafeDirectByteBuf(ridx: 13, widx: 13, cap: 13)
+[01:39:11] [Server thread/INFO]: /84.54.51.93:57956 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(13) + length(8) exceeds writerIndex(13): PooledUnsafeDirectByteBuf(ridx: 13, widx: 13, cap: 13)
