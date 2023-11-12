@@ -31,3 +31,8 @@
 [02:01:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
 [02:01:37] [Server thread/INFO]: Time elapsed: 7915 ms
 [02:01:37] [Server thread/INFO]: Done (16.525s)! For help, type "help"
+[02:02:16] [Server thread/INFO]: Berlim1996[/54.207.22.133:61021] logged in with entity id 56 at (-84.30000001192093, 108.875, -754.6999999880791)
+[02:02:16] [Server thread/INFO]: Berlim1996 joined the game
+[02:02:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[02:02:54] [Server thread/INFO]: Berlim1996 lost connection: Disconnected
+[02:02:54] [Server thread/INFO]: Berlim1996 left the game
